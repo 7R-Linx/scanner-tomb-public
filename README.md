@@ -28,4 +28,4 @@
 | ext-connie-xpanse | Сканеры | 6 | [feeds/ext-connie-xpanse.txt](feeds/ext-connie-xpanse.txt) |
 | src-scanners-internettl | Прочее | 1 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 
-🕒 Обновлено: 2025-05-04 12:56 UTC
+🕒 Обновлено: 2025-05-04 14:09 UTC
