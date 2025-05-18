@@ -27,6 +27,6 @@
 | ext-connie-umich | Сканеры | 6 | [feeds/ext-connie-umich.txt](feeds/ext-connie-umich.txt) |
 | ext-connie-xpanse | Сканеры | 6 | [feeds/ext-connie-xpanse.txt](feeds/ext-connie-xpanse.txt) |
 | src-malicious-hosts | Malicious | 20 | [feeds/src-malicious-hosts.txt](feeds/src-malicious-hosts.txt) |
-| src-scanners-internettl | Прочее | 1 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
+| src-scanners-internettl | Прочее | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 
-🕒 Обновлено: 2025-05-17 21:28 UTC
+🕒 Обновлено: 2025-05-18 20:05 UTC
