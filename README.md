@@ -6,7 +6,7 @@
 |----------|------------|---------|------|
 | ext-connie-academyforinternetresearch | Сканеры | 6 | [feeds/ext-connie-academyforinternetresearch.txt](feeds/ext-connie-academyforinternetresearch.txt) |
 | ext-connie-alphastrike | Сканеры | 3 | [feeds/ext-connie-alphastrike.txt](feeds/ext-connie-alphastrike.txt) |
-| ext-connie-censys | Сканеры | 11 | [feeds/ext-connie-censys.txt](feeds/ext-connie-censys.txt) |
+| ext-connie-censys | Сканеры | 14 | [feeds/ext-connie-censys.txt](feeds/ext-connie-censys.txt) |
 | ext-connie-criminalip | Сканеры | 78 | [feeds/ext-connie-criminalip.txt](feeds/ext-connie-criminalip.txt) |
 | ext-connie-cyberresilience | Сканеры | 15 | [feeds/ext-connie-cyberresilience.txt](feeds/ext-connie-cyberresilience.txt) |
 | ext-connie-group-ib | Сканеры | 21 | [feeds/ext-connie-group-ib.txt](feeds/ext-connie-group-ib.txt) |
@@ -29,4 +29,4 @@
 | src-malicious-hosts | Malicious | 20 | [feeds/src-malicious-hosts.txt](feeds/src-malicious-hosts.txt) |
 | src-scanners-internettl | Прочее | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 
-🕒 Обновлено: 2025-06-28 21:15 UTC
+🕒 Обновлено: 2025-07-05 21:16 UTC
