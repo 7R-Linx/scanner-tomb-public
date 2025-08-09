@@ -29,4 +29,4 @@
 | src-malicious-hosts | Malicious | 20 | [feeds/src-malicious-hosts.txt](feeds/src-malicious-hosts.txt) |
 | src-scanners-internettl | Прочее | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 
-🕒 Обновлено: 2025-08-02 21:17 UTC
+🕒 Обновлено: 2025-08-09 21:16 UTC
