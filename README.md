@@ -31,4 +31,4 @@
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 
-🕒 Обновлено: 2025-12-13 21:16 UTC
+🕒 Обновлено: 2025-12-20 21:15 UTC
