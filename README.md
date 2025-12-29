@@ -30,5 +30,6 @@
 | src-scanners-censys | Scanners | 1 | [feeds/src-scanners-censys.txt](feeds/src-scanners-censys.txt) |
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
+| src-unknown | Прочее | 3 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2025-12-27 21:17 UTC
+🕒 Обновлено: 2025-12-29 05:09 UTC
