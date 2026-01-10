@@ -8,7 +8,7 @@
 | ext-connie-alphastrike | Сканеры | 3 | [feeds/ext-connie-alphastrike.txt](feeds/ext-connie-alphastrike.txt) |
 | ext-connie-censys | Сканеры | 14 | [feeds/ext-connie-censys.txt](feeds/ext-connie-censys.txt) |
 | ext-connie-criminalip | Сканеры | 78 | [feeds/ext-connie-criminalip.txt](feeds/ext-connie-criminalip.txt) |
-| ext-connie-cyberresilience | Сканеры | 15 | [feeds/ext-connie-cyberresilience.txt](feeds/ext-connie-cyberresilience.txt) |
+| ext-connie-cyberresilience | Сканеры | 16 | [feeds/ext-connie-cyberresilience.txt](feeds/ext-connie-cyberresilience.txt) |
 | ext-connie-group-ib | Сканеры | 21 | [feeds/ext-connie-group-ib.txt](feeds/ext-connie-group-ib.txt) |
 | ext-connie-internet-census | Сканеры | 630 | [feeds/ext-connie-internet-census.txt](feeds/ext-connie-internet-census.txt) |
 | ext-connie-internet-measurement | Сканеры | 12 | [feeds/ext-connie-internet-measurement.txt](feeds/ext-connie-internet-measurement.txt) |
@@ -32,4 +32,4 @@
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 | src-unknown | Прочее | 3 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-01-03 21:17 UTC
+🕒 Обновлено: 2026-01-10 21:17 UTC
