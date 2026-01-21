@@ -27,9 +27,11 @@
 | ext-connie-umich | Сканеры | 6 | [feeds/ext-connie-umich.txt](feeds/ext-connie-umich.txt) |
 | ext-connie-xpanse | Сканеры | 6 | [feeds/ext-connie-xpanse.txt](feeds/ext-connie-xpanse.txt) |
 | src-malicious-hosts | Malicious | 20 | [feeds/src-malicious-hosts.txt](feeds/src-malicious-hosts.txt) |
+| src-scanners-carinet | Scanners | 1 | [feeds/src-scanners-carinet.txt](feeds/src-scanners-carinet.txt) |
 | src-scanners-censys | Scanners | 1 | [feeds/src-scanners-censys.txt](feeds/src-scanners-censys.txt) |
+| src-scanners-constant | Scanners | 1 | [feeds/src-scanners-constant.txt](feeds/src-scanners-constant.txt) |
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 | src-unknown | Прочее | 3 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-01-21 05:43 UTC
+🕒 Обновлено: 2026-01-21 05:53 UTC
