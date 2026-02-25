@@ -32,6 +32,6 @@
 | src-scanners-constant | Scanners | 1 | [feeds/src-scanners-constant.txt](feeds/src-scanners-constant.txt) |
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
-| src-unknown | Прочее | 3 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
+| src-unknown | Прочее | 4 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-02-14 21:22 UTC
+🕒 Обновлено: 2026-02-25 05:01 UTC
