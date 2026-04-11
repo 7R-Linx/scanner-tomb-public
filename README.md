@@ -34,4 +34,4 @@
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-04-04 21:30 UTC
+🕒 Обновлено: 2026-04-11 21:31 UTC
