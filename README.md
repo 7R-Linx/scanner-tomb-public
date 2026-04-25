@@ -35,4 +35,4 @@
 | src-scanners-ukr | Scanners | 8 | [feeds/src-scanners-ukr.txt](feeds/src-scanners-ukr.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-04-20 20:39 UTC
+🕒 Обновлено: 2026-04-25 21:35 UTC
