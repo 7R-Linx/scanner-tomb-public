@@ -32,7 +32,7 @@
 | src-scanners-constant | Scanners | 1 | [feeds/src-scanners-constant.txt](feeds/src-scanners-constant.txt) |
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
-| src-scanners-ukr | Scanners | 8 | [feeds/src-scanners-ukr.txt](feeds/src-scanners-ukr.txt) |
+| src-scanners-ukr | Scanners | 14 | [feeds/src-scanners-ukr.txt](feeds/src-scanners-ukr.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-04-25 21:35 UTC
+🕒 Обновлено: 2026-04-26 23:39 UTC
