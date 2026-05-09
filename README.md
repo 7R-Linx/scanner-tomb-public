@@ -19,7 +19,7 @@
 | ext-connie-normshield | Сканеры | 2 | [feeds/ext-connie-normshield.txt](feeds/ext-connie-normshield.txt) |
 | ext-connie-notice | Сканеры | 14 | [feeds/ext-connie-notice.txt](feeds/ext-connie-notice.txt) |
 | ext-connie-openportstats | Сканеры | 144 | [feeds/ext-connie-openportstats.txt](feeds/ext-connie-openportstats.txt) |
-| ext-connie-rapid7 | Сканеры | 5 | [feeds/ext-connie-rapid7.txt](feeds/ext-connie-rapid7.txt) |
+| ext-connie-rapid7 | Сканеры | 7 | [feeds/ext-connie-rapid7.txt](feeds/ext-connie-rapid7.txt) |
 | ext-connie-recyber | Сканеры | 2 | [feeds/ext-connie-recyber.txt](feeds/ext-connie-recyber.txt) |
 | ext-connie-scanopticon | Сканеры | 3 | [feeds/ext-connie-scanopticon.txt](feeds/ext-connie-scanopticon.txt) |
 | ext-connie-shadowserver | Сканеры | 6 | [feeds/ext-connie-shadowserver.txt](feeds/ext-connie-shadowserver.txt) |
@@ -36,4 +36,4 @@
 | src-scanners-unknowт | Scanners | 3 | [feeds/src-scanners-unknowт.txt](feeds/src-scanners-unknowт.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-05-05 21:26 UTC
+🕒 Обновлено: 2026-05-09 21:41 UTC
