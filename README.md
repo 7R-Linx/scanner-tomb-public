@@ -33,7 +33,7 @@
 | src-scanners-grchc | Scanners | 3 | [feeds/src-scanners-grchc.txt](feeds/src-scanners-grchc.txt) |
 | src-scanners-internettl | Scanners | 2 | [feeds/src-scanners-internettl.txt](feeds/src-scanners-internettl.txt) |
 | src-scanners-ukr | Scanners | 17 | [feeds/src-scanners-ukr.txt](feeds/src-scanners-ukr.txt) |
-| src-scanners-unknowт | Scanners | 3 | [feeds/src-scanners-unknowт.txt](feeds/src-scanners-unknowт.txt) |
+| src-scanners-unknowт | Scanners | 5 | [feeds/src-scanners-unknowт.txt](feeds/src-scanners-unknowт.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-05-09 21:41 UTC
+🕒 Обновлено: 2026-05-11 12:02 UTC
