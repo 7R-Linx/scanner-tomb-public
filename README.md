@@ -36,4 +36,4 @@
 | src-scanners-unknowт | Scanners | 14 | [feeds/src-scanners-unknowт.txt](feeds/src-scanners-unknowт.txt) |
 | src-unknown | Прочее | 5 | [feeds/src-unknown.txt](feeds/src-unknown.txt) |
 
-🕒 Обновлено: 2026-08-14 20:21 UTC
+🕒 Обновлено: 2026-08-15 21:18 UTC
